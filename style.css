@@ -27,17 +27,10 @@ body {
 	margin: 0 4px;
 }
 
-h2, strong {
-	color: rgba(95, 204, 95, 1);
-}
-
 .section:nth-child(even){
-	border: 1px dotted rgba(95, 204, 95, .8);
-	border-left: 0;
-	border-right: 0;
-/*	background-color: rgba(95, 204, 95, .8);
+	background-color: rgba(95, 204, 95, .8);
 	color: #FFF;
-	text-shadow: 0 0 1px rgba(20, 20, 20, .4);*/
+	text-shadow: 0 0 1px rgba(20, 20, 20, .4);
 }
 
 .section:nth-child(odd){
